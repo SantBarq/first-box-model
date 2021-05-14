@@ -1,0 +1,40 @@
+.box{
+   
+    border: 5px black solid;
+    top: 5%;
+    width: 200px;
+    height: 200px;
+    background-color: rgb(177, 177, 177);
+}
+
+.ojos{
+    
+   
+    border: 3px black solid;
+    width: 60px;
+    height: 40px;
+    background-color: green;
+    margin-right: 50px;
+    
+}
+
+.boca{
+    
+    border: 3px black solid;
+    width: 150px;
+    height: 40px;
+    background-color: rgb(255, 255, 255);
+    margin-right: 50px; 
+}
+
+.diente{
+    border: 15px rgb(177, 177, 177);
+    top: 5%;
+    width: 15px;
+    height: 20px;
+    background-color: rgb(177, 177, 177);
+    margin-top: 5%;
+    margin-left: 5px;
+
+
+}
